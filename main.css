@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400');
+body{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
+.phone-header{
+  width: 100%;
+  position: fixed;
+  background: white;
+  height: 55px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.phone-header-left{
+  display: inline-block;
+  padding-left: 25px;
+  display: flex;
+  align-items: center;
+}
+.phone-header-img{
+  width: 97px;
+  padding: 4px 2px 0px 0px;
+}
+.phone-header-span{
+  font-size: 1.5rem;
+  color: #555;
+}
+.phone-header-nav{
+width: 30px;
+height: 32px;
+margin-right: 15px;
+opacity: .4;
+}
+.place-holder{
+  height: 54px;
+}
+.top-section{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  background: url("https://www.google.com/drive/images/home/intro-1200.jpg ")center no-repeat;
+  background-size: cover;
+}
+.top-section-img{
+  width: 70px;
+  margin-bottom: 25px;
+}
+.top-section-title{
+  font-size: 2.2rem;
+  color: white;
+  text-align: center;
+  line-height: 3rem;
+  padding: 0px 8px 150px 8px;
+  font-weight: 300;
+}
+
+
+
+
+.second-section{
+  width: 100%;
+  height: 80vh;
+  border: 1px red solid;
+}
+.logo{
+  width: 95%;
+  padding: 60px 0px 30px 20px;
+
+}
+}
+.second-section-header{
+  width: 100%;
+
+
+}
+}
+.second-section-text{
+  font-size: 150px;
+}
